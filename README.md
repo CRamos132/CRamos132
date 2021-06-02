@@ -24,7 +24,7 @@ Hi, I'm Camille, a front end developer who's always looking for new challenges a
 
 ### Get in touch
 * [LinkedIn](https://www.linkedin.com/in/camille-ramos-316abb194/)
-* [Email](mailto:heitorgpramos95@gmail.com)
+* [Email](mailto:camille.gpramos@gmail.com)
 
 ![Profile views](https://gpvc.arturio.dev/HeitorRamos132)
 <!--
