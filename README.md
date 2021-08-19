@@ -5,9 +5,9 @@ Hi, I'm Camille, a front end developer who's always looking for new challenges a
 
 ### Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-%23282C34?&logo=react)
+![ReactJS](https://img.shields.io/badge/-React-%23282C34?&logo=react)
+![NextJS](https://img.shields.io/badge/-NextJS-%23282C34?&logo=vercel)
 ![TypeScript](https://img.shields.io/badge/-Typescript-%231572B6?&logo=typescript)
-![Redux](https://img.shields.io/badge/-Redux-%234B32C3?&logo=redux)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?&logo=css3)
 
@@ -20,7 +20,6 @@ Hi, I'm Camille, a front end developer who's always looking for new challenges a
 ### Currently learning
 * Svelte 
 * React Native
-* Next.js
 
 ### Get in touch
 * [LinkedIn](https://www.linkedin.com/in/camille-ramos-316abb194/)
