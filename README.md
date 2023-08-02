@@ -25,8 +25,9 @@ Hi, I'm Camille, a front end developer who's always looking for new challenges a
 * [LinkedIn](https://www.linkedin.com/in/camille-ramos-316abb194/)
 * [Email](mailto:camille.gpramos@gmail.com)
 
-![Profile views](https://gpvc.arturio.dev/CRamos132)
+
 <!--
+![Profile views](https://gpvc.arturio.dev/CRamos132)
 **HeitorRamos132/HeitorRamos132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://img.shields.io/badge/-Svelte-%23FF3C00?&logo=svelte&logoColor=ffffff
 Here are some ideas to get you started:
